@@ -1,2 +1,3 @@
 # SqLite_Example
 Just another repository
+cordova script...
